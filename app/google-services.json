@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284128122107",
+    "project_id": "videocallme-37262",
+    "storage_bucket": "videocallme-37262.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284128122107:android:dbc4600fc760e4d4224c5e",
+        "android_client_info": {
+          "package_name": "com.example.videocallme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284128122107-chavjkrtsrp6bhpsa7r5rgaobham801n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBthYI4AQwH96jXVMMxHJA-iLkTYGeOfo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284128122107-chavjkrtsrp6bhpsa7r5rgaobham801n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

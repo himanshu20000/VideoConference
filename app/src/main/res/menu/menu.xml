@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/Home"
+        android:title="Home"
+        app:showAsAction="always"
+        android:visible="true"/>
+    <item
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="History"
+        android:id="@+id/History"
+        app:showAsAction="always"
+        android:visible="true"/>
+    <item
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings"
+        android:id="@+id/Settings"
+        app:showAsAction="always"
+        android:visible="true"/>
+    <item
+        android:icon="@drawable/ic_baseline_login_24"
+        android:title="Logout"
+        android:id="@+id/Logout"
+        app:showAsAction="always"
+        android:visible="true"/>
+</menu>
